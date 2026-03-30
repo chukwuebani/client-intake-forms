@@ -1,31 +1,26 @@
-# client-intake-forms
-Professional client intake forms designed for efficient client onboarding and structured information collection.
-# Client Intake Forms
+client-intake-form -
 
-## Overview
+Professional client intake form designed for efficient client onboarding and structured information collection.
+
+Overview -
 
 This repository contains professionally structured client intake forms used for collecting and organizing client information efficiently.
 
----
+Sample Included -
 
-## 📄 Sample Included
-
-### General Legal Client Intake Form
+General Legal Client Intake Form -
 
 A structured form designed to capture essential client and case details at the initial stage.
 
----
 
-## ⚖️ Skills Demonstrated
+Skills Demonstrated -
 
 * Client onboarding support
 * Form design and structuring
 * Information organization
 * Attention to detail
 
----
-
-## 🎯 Use Case
+Use Case
 
 Suitable for law firms and legal professionals who need:
 
@@ -33,8 +28,7 @@ Suitable for law firms and legal professionals who need:
 * Organized case information
 * Standardized data collection
 
----
 
-## 📌 Note
+Please Note:
 
 This template is for demonstration purposes only and may be customized to suit specific legal practices.
