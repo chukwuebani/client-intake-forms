@@ -1,4 +1,4 @@
-client-intake-form -
+Client-intake-form -
 
 Professional client intake form designed for efficient client onboarding and structured information collection.
 
