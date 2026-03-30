@@ -32,3 +32,7 @@ Suitable for law firms and legal professionals who need:
 Please Note:
 
 This template is for demonstration purposes only and may be customized to suit specific legal practices.
+
+Download the client intake form.pdf file to view: 
+https://drive.google.com/file/d/1XXnEwwaVemIPIN8LdCIlQPnF0iLT1UZv/view?usp=drive_link
+
